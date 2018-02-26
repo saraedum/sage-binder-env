@@ -5,4 +5,4 @@ Automatically generated [binder](https://mybinder.org) configuration for a [comm
 Support for funny characters in branch names
 ```
 You can experiment with this commit by clicking here:
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/saraedum/sage-binder-env/binder?filepath=review.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/saraedum/sage-binder-env/develop?filepath=review.ipynb)
